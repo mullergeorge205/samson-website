@@ -1,0 +1,488 @@
+*{
+	margin:0px;
+	padding:0px;
+	list-style-type:none;
+	text-decoration: none;
+}
+.head{
+	display: flex;
+	background: white;
+	align-items: center;
+	justify-content: space-evenly;
+	padding: 20px 0px 0px 0px;
+	width: 100%;
+}
+.head-items ul{
+	display: flex;
+	
+}
+.head-items ul li{
+	
+	font-size: 16px;
+}
+.utimate2{
+	text-align: center;
+	width: 50%;
+}
+.utimate{
+	display:flex;
+	align-items: center;
+	background: #e8bbb8;
+	justify-content: space-between;
+	  /* padding-left: 16rem; */
+	  	  width: 100%;
+}
+.head-items ul li a{
+	color: black;
+	padding:10px 20px;
+	transition: 1s;
+
+}
+.head-items ul li a:hover{
+	background: black;
+	color: white;
+
+}
+.utimate-i img{
+	width: 44rem;
+  	height: 33rem;
+}
+.button1{
+	background: red;
+  color: white;
+  border: none;
+  width: 7rem;
+  height: 37px;
+  border-radius: 5px;
+  font-size: 10px;
+   font-size: 15px;
+	text-align: center;
+}
+.utimate-text1{
+	font-size: 25px;
+}
+.utimate-text2{
+	font-size: 25px;
+	/* display: grid; */
+  justify-content: center;
+  align-content: center;
+  width: 50%;
+}
+.utimate-text{
+	font-size: 11px;
+  text-align: center;
+  padding-bottom: 9px;
+}
+.feat-text{
+	text-align: center;
+	font-size: 24px;
+  	padding-top: 2rem;
+  	padding-bottom: 2rem;
+}
+.feat{
+	width: 100%;
+}
+.hair-items img{
+	
+  width: 100%;
+}
+
+.hair-text{
+		font-size: 16px;
+  color:hsl(0, 9%, 77%);
+  text-align: center;
+  padding-top: 1rem;
+}
+.hair-text1{
+	font-size: 16px;
+	text-align: center;
+}
+
+.hair{
+	display:flex;
+	justify-content: center;
+	gap: 10px;
+	padding-bottom: 8%;
+	width: 100%;
+	margin: 10px;
+}
+.hair-mac{
+	display:flex;
+	justify-content: center;
+	gap: 10px;
+	padding-bottom: 8%;
+	width: 100%;
+	margin: 10px;
+}
+.fingers{
+	display:flex;
+	align-items: center;
+	background: hsl(0, 0%, 90%);
+	justify-content: space-between;
+	 height: 20rem;
+	  width: 100%;
+	  
+}
+.utimate-ii img{
+	width: 100%;
+  height: 15rem;
+
+}
+.utimate-ii{
+	
+	width: 50%;
+
+
+}
+.utimate2{
+	width: 100%;
+}
+.utimate-text11{
+	font-size: 16px;
+}
+.utimate-text2{
+	/* font-size: 15px;
+	text-align: center; */
+}
+.utimate-text12{
+	font-size: 56px;
+  text-align: center;
+  padding-bottom: 9px
+}
+.most{
+	text-align: center;
+ 	 padding-top: 2rem;
+ 	 padding-bottom: 2rem;
+}
+.most-text{
+	font-size: 25px;
+}
+
+.hair-itemsi img{
+	width: 95%;
+  height: 16rem;
+}
+
+.money1{
+	box-shadow: 1px 2px 1px 1px gray;
+  width: 173px;
+  height: 113px;
+  text-align: center;
+  display: grid;
+  place-items: center;
+}
+.money1 img{
+	align-items: center;
+}
+.money-text1{
+	font-size: 12px;
+
+}
+.money-text{
+	font-size: 11px;
+}
+.money{
+	display: flex;
+	justify-content: center;
+	gap: 40px;
+	padding-bottom: 4rem;
+}
+.trend{
+	text-align: center;
+	
+}
+.trends{
+	font-size: 27px;
+	padding-bottom: 2rem;
+}
+
+.keyboard img{
+	width: 100%;
+
+
+
+
+
+}
+
+.hairii{
+	display: flex;
+	justify-content: space-evenly;
+	width: 100%;
+	column-gap: 20px;
+	margin: 10px;
+}
+.journali img{
+	width: 20rem;
+  height: 18rem;
+  
+}
+.JOURNAL{
+	padding-top: 2rem;
+	padding-bottom: 2rem;
+	text-align: center;
+}
+.journali{
+	display: flex;
+	justify-content: space-evenly;
+	column-gap: 20px;
+		width: 100%;
+		margin: 10px;
+}
+.keyboard1{
+	width: 30%;
+	/* border: 1px solid black; */
+
+}
+.keyboard1 img{
+	width: 100%;
+}
+.del{
+	padding-top: 1rem;
+	padding-bottom: 10px;
+}
+.follow{
+	padding-top:3rem;
+	padding-bottom: 2rem;
+	text-align: center;
+}
+.follow-i{
+	display: flex;
+	justify-content: center;
+	gap: 10px;
+	width: 100%;
+}
+.jasper img{
+	width: 95%;
+	height: 17rem;
+}
+.end{
+	display: flex;
+	background-color: hsl(0, 0%, 90%);
+	justify-content: center;
+	gap: 5%;
+	padding-top: 2rem;
+	/* padding-bottom: 4rem; */
+	width: 100%;
+}
+.end-button{
+	background: white;
+  border: none;
+  height: 36px;
+  width: 40%;
+  border-radius: 6px;
+  margin-bottom: 11px;
+
+}
+.end-button1{
+	background: red;
+  border: none;
+  height: 36px;
+  width: 40%;
+  border-radius: 6px;
+  margin-bottom: 11px;
+  color:white
+}
+.end-1{
+	padding-bottom: 2rem;
+	width: 100%;
+}
+.end-2{
+	/* padding-bottom: 2rem; */
+	width: 100%;
+}
+.ennd-text{
+	text-align: center;
+	background:hsl(0, 0%, 90%);
+
+}
+.online{
+	padding-top:1rem;
+}
+.hair i{
+	color:red;
+	}
+.far{
+	color:red;
+}
+.hamburger{
+	display: none;				
+}
+.ac1{
+	width: 100%;
+	
+}
+.ac2{
+	width: 100%;
+	
+}
+.ac{
+	width: 100%;
+	
+}
+
+
+
+@media screen and (max-width: 850px){
+.head{
+	display: block;
+	padding:4%;
+	
+}
+.head-items ul li {
+	width: 25%;
+	}
+	.head-items ul {
+		width: 65%;
+		padding: 2%;
+	} 
+	.hamburger{
+		 display:block;
+	}
+	form{
+		display: none;
+		
+	}
+	.head{
+		justify-content: space-around;
+		display: flex;
+	}
+	.head-items:hover form{
+		display: block;
+
+	}
+	form ul{
+		flex-direction: column;
+	}
+	.head-items{
+		position: relative;
+	}
+	form{
+		position:absolute;
+		left:-40px;
+	}
+form a{
+	font-size: 15px;
+	
+}
+.hair{
+	display: grid;
+	grid-template-columns: auto auto;
+}
+.hair-text{
+	font-size: 20px;
+	/* color: black; */
+}
+form li{
+	padding:5px;
+}	
+.utimate2{
+	/* border: 1px solid black; */
+	width: 100%;
+	font-size: 10px;
+	display: grid;
+	justify-content: center;
+	align-items: center;
+}
+.ac{
+	display: none;
+}
+
+
+}
+@media  screen and (max-width:940px) {
+	.utimate2{
+		
+		width: 100%;
+		font-size: 21px;
+	}
+	.utimate-text{
+		font-size: 12px;
+		text-align: center;
+	}
+	.utimate-text1{
+		font-size: 23px;
+	}
+	.utimate-text2{
+		font-size: 18px;
+	}
+	.utimate-i img{
+		width: 25rem;
+		  height: 20rem;
+	
+}
+}
+@media screen and (max-width: 621px){
+	.utimate-i img{
+		display:none;
+		
+	}
+	.utimate{
+		height: 25rem;
+	}
+	.utimate-contener{
+		font-size: 90px;
+	}
+	.utimate-text1{
+		font-size: 25px ;
+	}
+	.utimate-text{
+		font-size: 12px;
+	}
+	.utimate-ii{
+		display: none;
+	}
+	.utimate-text11{
+		font-size: 20px;
+	}
+	.hair-mac{
+		display: grid;
+		grid-template-columns: auto auto;
+	}
+	.money{
+		display: grid;
+		/* grid-template-columns: auto auto; */
+	}
+	.hairii{
+		display: grid;
+		grid-template-columns: auto auto;
+	}
+	.journali{
+		display: grid;
+		/* grid-template-columns: auto auto; */
+		width: 100%;
+	}
+	.keyboard1{
+		width: 100%;
+		margin: 3%;
+	}
+	.follow-i{
+		display: grid;
+		grid-template-columns: auto auto;
+	}
+	.ac{
+		display: none;
+	}
+}
+	
+@media screen and (max-width: 619px){
+	.utimate2 button{
+		font-size: 15px;
+		text-align: center;
+	}
+}
+@media screen and (max-width: 680px){
+	.ac2{
+		display:none;
+	}
+	
+}
+
+
+
+
+
+
+
+
+
